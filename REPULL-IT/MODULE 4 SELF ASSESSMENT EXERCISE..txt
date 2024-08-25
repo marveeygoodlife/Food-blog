@@ -1,0 +1,37 @@
+MODULE 4: SELF ASSESSMENT EXERCISE.
+
+
+1. How's the image element different from h1 or p tag?
+
+ANSWER: The <img>, <h1> & <p> tags perform different purposes in HTML and have different functionalities.
+<img> tags embed images to the page, and it has attributes such as; src, alt, width and height..
+
+The image is also a self-closing tag.. While the <h1> tag defines the most important heading in the page and the <p> tag stands for paragraph and it's used to add text to a page..
+
+2. What does img stand for?
+img stands for image, it's used to embed image to a HTML page..
+
+3. what does src  stands for?
+The src means source, it specifies the path/location of the image you want to add on the HTML page..
+
+4. What does width stands for?
+
+The width specifies the image width, it defines how wide the image can get..
+
+5. what does alt stands for?
+
+The alt provide alternative text for the image, it displays if the image fails to load or for screen readers..
+
+6. when the value to width is changed, what happens to the image?
+
+When the value of the width is changed the display width of that image will change aswell, if you increase the value, it'll get wider and if you reduce it, it becomes smaller..
+
+7. when width="500" is removed, what happens to the image?
+
+When the width of 500 is removed the image will take it's default width if you didnt specify a new width..
+
+
+🙋 QUESTION 🙋
+1. Sir aside the <img> tag is there another way to add image to the page?
+
+
